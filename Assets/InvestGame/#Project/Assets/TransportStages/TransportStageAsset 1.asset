@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 47fb3167bb2394a41826214ff37bf7f4, type: 3}
+  m_Name: TransportStageAsset 1
+  m_EditorClassIdentifier: 
+  transportAsset: {fileID: 11400000, guid: 9a7d9b167488c9e4fa0dc9055a7d9d7a, type: 2}
+  choiceAsset:
+  - {fileID: 11400000, guid: fee23edffe99f8b44a9e02dda421f470, type: 2}
+  - {fileID: 11400000, guid: 524e663197098b740a12bcf34e8bb5ba, type: 2}
