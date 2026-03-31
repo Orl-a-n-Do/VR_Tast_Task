@@ -1202,6 +1202,10 @@ PrefabInstance:
       value: 98.16277
       objectReference: {fileID: 0}
     - target: {fileID: 8295246940939111756, guid: 5862cb9fe92b87041a026a3581f3b365, type: 3}
+      propertyPath: m_Lightmapping
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 8295246940939111756, guid: 5862cb9fe92b87041a026a3581f3b365, type: 3}
       propertyPath: m_InnerSpotAngle
       value: 34.798584
       objectReference: {fileID: 0}

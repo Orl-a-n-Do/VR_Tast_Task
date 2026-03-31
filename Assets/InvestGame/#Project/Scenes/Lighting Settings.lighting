@@ -23,7 +23,7 @@ LightingSettings:
   m_LightmapCompression: 1
   m_AO: 1
   m_AOMaxDistance: 1
-  m_CompAOExponent: 2.27
+  m_CompAOExponent: 0.8
   m_CompAOExponentDirect: 3.42
   m_ExtractAO: 0
   m_MixedBakeMode: 0
